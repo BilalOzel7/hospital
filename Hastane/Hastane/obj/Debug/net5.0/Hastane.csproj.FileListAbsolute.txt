@@ -1,0 +1,16 @@
+C:\Hastane\Hastane\Hastane\bin\Debug\net5.0\Hastane.exe
+C:\Hastane\Hastane\Hastane\bin\Debug\net5.0\Hastane.deps.json
+C:\Hastane\Hastane\Hastane\bin\Debug\net5.0\Hastane.runtimeconfig.json
+C:\Hastane\Hastane\Hastane\bin\Debug\net5.0\Hastane.runtimeconfig.dev.json
+C:\Hastane\Hastane\Hastane\bin\Debug\net5.0\Hastane.dll
+C:\Hastane\Hastane\Hastane\bin\Debug\net5.0\ref\Hastane.dll
+C:\Hastane\Hastane\Hastane\bin\Debug\net5.0\Hastane.pdb
+C:\Hastane\Hastane\Hastane\obj\Debug\net5.0\Hastane.csprojAssemblyReference.cache
+C:\Hastane\Hastane\Hastane\obj\Debug\net5.0\Hastane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hastane\Hastane\Hastane\obj\Debug\net5.0\Hastane.AssemblyInfoInputs.cache
+C:\Hastane\Hastane\Hastane\obj\Debug\net5.0\Hastane.AssemblyInfo.cs
+C:\Hastane\Hastane\Hastane\obj\Debug\net5.0\Hastane.csproj.CoreCompileInputs.cache
+C:\Hastane\Hastane\Hastane\obj\Debug\net5.0\Hastane.dll
+C:\Hastane\Hastane\Hastane\obj\Debug\net5.0\ref\Hastane.dll
+C:\Hastane\Hastane\Hastane\obj\Debug\net5.0\Hastane.pdb
+C:\Hastane\Hastane\Hastane\obj\Debug\net5.0\Hastane.genruntimeconfig.cache

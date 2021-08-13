@@ -1,0 +1,15 @@
+C:\Hastane\Hastane\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Hastane\Hastane\Entities\bin\Debug\net5.0\Entities.dll
+C:\Hastane\Hastane\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Hastane\Hastane\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Hastane\Hastane\Entities\bin\Debug\net5.0\Core.dll
+C:\Hastane\Hastane\Entities\bin\Debug\net5.0\Core.pdb
+C:\Hastane\Hastane\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Hastane\Hastane\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hastane\Hastane\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Hastane\Hastane\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Hastane\Hastane\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Hastane\Hastane\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Hastane\Hastane\Entities\obj\Debug\net5.0\Entities.dll
+C:\Hastane\Hastane\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Hastane\Hastane\Entities\obj\Debug\net5.0\Entities.pdb

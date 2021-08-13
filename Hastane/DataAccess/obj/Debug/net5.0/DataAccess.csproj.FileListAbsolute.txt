@@ -1,0 +1,17 @@
+C:\Hastane\Hastane\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Hastane\Hastane\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Hastane\Hastane\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Hastane\Hastane\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Hastane\Hastane\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hastane\Hastane\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Hastane\Hastane\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Hastane\Hastane\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Hastane\Hastane\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Hastane\Hastane\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Hastane\Hastane\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Hastane\Hastane\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Hastane\Hastane\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Hastane\Hastane\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Hastane\Hastane\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Hastane\Hastane\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Hastane\Hastane\DataAccess\obj\Debug\net5.0\DataAccess.pdb
